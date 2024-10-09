@@ -29,14 +29,7 @@ What is the most common rating among all titles?
 
 
 DATASETLINK:https://www.kaggle.com/datasets/shivamb/netflix-shows   
-'' SQL
-SELECT 
-    COUNT(CASE WHEN type = 'TV Show' THEN 1 END) AS TVshow,
-    COUNT(CASE WHEN type = 'Movie' THEN 1 END) AS movies
-FROM netflix_titles
-WHERE type = 'Movie' OR type = 'TV Show';
 
-''
 
 
 
