@@ -2,7 +2,7 @@
 
 ![NETFLIX_LOG](https://i.ytimg.com/vi/ZMak63mHq5Y/maxresdefault.jpg) 
 
-#Objective of the Project
+#Objective of the Project:
 The primary objective of this project is to analyze and gain insights from the Netflix dataset, which includes a comprehensive listing of over 8000 movies and TV shows available on the platform. The specific goals of this project are as follows:
 
 Data Exploration and Visualization: To explore the dataset thoroughly, visualize key attributes such as ratings, release years, and genres, and identify trends in content availability over time.
